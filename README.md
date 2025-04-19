@@ -1,2 +1,2 @@
 # Reseau
-project Reseau
+Projet réalisé avec le logiciel Cisco Packet Tracer pour comprendre le fonctionnement des réseaux locaux. À travers des tests de connectivité et une analyse en mode simulation, nous avons étudié la communication entre différents appareils tels que les switches, routeurs, PC et points d’accès. Cette démarche a permis d’observer la circulation des paquets et les mécanismes d’échange au sein du réseau
